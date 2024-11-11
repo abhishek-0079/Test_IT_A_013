@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+h1,h2{
+    margin: 5px 0px 20px 0px;
+    color: green;
+}
+h1{
+    background-color: yellow;
+}
+button{
+    background-color: green;
+    padding: 10px 11px;
+    border: none;
+    border-radius: 5px;
+    margin: 0px 15px;
+    font-size: 15px;
+    color: white;
+}
+#div1{
+    margin: 15px;
+    
+}
